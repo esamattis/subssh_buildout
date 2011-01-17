@@ -3,5 +3,5 @@ develop-eggs
 eggs
 parts
 Session.vim
-src
+src/*
 .*
